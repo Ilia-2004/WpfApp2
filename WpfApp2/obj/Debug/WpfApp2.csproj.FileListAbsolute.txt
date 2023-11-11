@@ -1,0 +1,15 @@
+F:\Ilya\Programming\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+F:\Ilya\Programming\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+F:\Ilya\Programming\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+F:\Ilya\Programming\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+F:\Ilya\Programming\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+F:\Ilya\Programming\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+F:\Ilya\Programming\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+F:\Ilya\Programming\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+F:\Ilya\Programming\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+F:\Ilya\Programming\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+F:\Ilya\Programming\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+F:\Ilya\Programming\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+F:\Ilya\Programming\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+F:\Ilya\Programming\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+F:\Ilya\Programming\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
